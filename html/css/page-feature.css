@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/wallpaper3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+header{
+    text-align: center;
+    background-color: lightslategray;
+    border-radius: 15px;
+}
+.footer2{
+    background-color: grey;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    height: fit-content;
+    text-align: center;
+}
+.hero{
+    background-color: grey;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px 10px ;
+    padding: 10px;
+}

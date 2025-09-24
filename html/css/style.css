@@ -1,0 +1,51 @@
+.skils{
+    color:white;
+    padding: 15px;
+    margin: 10px;
+    border: 15 15 15 10;
+}
+.header1{
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    background-color: lightskyblue;
+    border-radius: 20px;
+  
+}
+body{
+    background-color: gray;
+    color: white;
+    background-image: url(../img/wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+aside{
+    background-color: azure;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    width:  300px;
+    border-radius: 20px;
+    position:fixed;
+    top: 0;
+    right: 0;
+}
+   
+.calenheader{
+    color:white;
+    background-color: lightskyblue;
+    height: 50px;
+    background-size: cover;
+    text-align: center;
+}
+.intru{
+    text-align: center;
+}
+.footer1{
+    background-color: lightskyblue;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
